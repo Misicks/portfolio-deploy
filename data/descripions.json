@@ -1,0 +1,33 @@
+[
+  {
+  "id":1,
+  "title":"Buscaminas de Emojis",
+  "description":"Es un juego de buscaminas pero con la diferencia que los números son sustituidos con emojis. La hice como una página web y después la transforme en una aplicación para Android. Con este projeco apredí a pasar páginas web a apps de android y de iPhone. La pagina web se desarrolló en Svelte que permite crear componentes web, para el diseño se coupo Tailwind y DaisyUi, finalmente se ocupo Capacitor para hacer la página web una aplicación para Android",
+  "tecnologias":["Svelte", "Capacitor","Cailwind","DaisyUi"]
+},
+{
+  "id":2,
+  "title":"Gato",
+  "description":"Es un juego de gato que detecta quien gana automáticamente, se hizo de la misma manera que el buscaminas. La hice como una página web y después la transforme en una aplicación para Android. Con este projeco apredí a pasar páginas web a apps de android y de iPhone. La pagina web se desarrolló en Svelte que permite crear componentes web, para el diseño se coupo Tailwind y DaisyUi, finalmente se ocupo Capacitor para hacer la página web una aplicación para Android",
+  "tecnologias":["Svelte", "Capacitor","Cailwind","DaisyUi"]
+},
+{
+  "id":3,
+  "title":"Servidor CRUD con Expres.js",
+  "description":"Este proyecto es un servidor que se conecta con una base de datos y permite hacer modificaciones a los datos que la base de datos almacena. CRUD (Create, Read, Update, Delete) por sus siglas en ingles se refiere a las siguientes acciones: crear leer, actualizar y eliminar,  son las acciónes o funciones que te permite realizar el servidor. el servidor se desarrolló con el lenguaje JavaScript usando la librería Expres.js, que fue la encargada de construir la arquitectura del servidor. Para la base de datos se uso MongoDB que es una base de datos para almacenar una gran cantidad de información",
+  "tecnologias":["JavaScript", "Expres.js","MongoDB"]
+},
+{
+  "id":3,
+  "title":"Pokedex",
+  "description":"Este proyecto es un sitio web el cual contiene información sobre todos los pokemones de primera generación. Cuenta con una página generada utomaticamente por pokemon con información detallada, además cuenta con un sistema de busqueda. Este sitio web se desarrolló con Svelte que es similar a React (En react está hecho Facebook) ambos permiten crear componentes web. Para obtener la información de los pokemones se utilizó una API publica (es la manera de accesar a la información de un servidor, es como un link) de la cual se obtuvo la información sobre cada uno de los pokemones.",
+  "tecnologias":["Svelte", "Capacitor","Cailwind","DaisyUi"]
+},
+{
+  "id":3,
+  "title":"Pokedex",
+  "description":"Este proyecto es un sitio web el cual contiene información sobre todos los pokemones de primera generación. Cuenta con una página generada utomaticamente por pokemon con información detallada, además cuenta con un sistema de busqueda. Este sitio web se desarrolló con Svelte que es similar a React (En react está hecho Facebook) ambos permiten crear componentes web. Para obtener la información de los pokemones se utilizó una API publica (es la manera de accesar a la información de un servidor, es como un link) de la cual se obtuvo la información sobre cada uno de los pokemones.",
+  "tecnologias":["Svelte", "Capacitor","Cailwind","DaisyUi"]
+}
+
+]

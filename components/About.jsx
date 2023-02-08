@@ -11,32 +11,26 @@ const About = () => {
           <p className='uppercase text-xl tracking-widest text-[#5651e5]'>
             About
           </p>
-          <h2 className='py-4'>Who I Am</h2>
+          <h2 className='py-4'>El camino que tomé</h2>
           <p className='py-2 text-gray-600'>
-            I specialize in building mobile responsive front-end UI applications
-            that connect with API’s and other backend technologies. I’m
-            passionate about learning new technologies and understand there is
-            more than one way to accomplish a task. Though I am most proficient
-            in building front-end applications using HTML, CSS, Javascript, and
-            React, I am a quick learner and can pick up new tech stacks as
-            needed. I believe that being a great developer is not using one
-            specific language, but choosing the best tool for the job.
+            Desde que era pequeño me ha gustado mucho aprender sobre tecnología. Empeze haciendo legos,
+            luego empeze a construir robots en una clase extra de la escuela cuando iba en 4º de promaria.
+            Siempre fui muy curioso y pronto los robots de lego me empezaron a aburrir.
+            Cuando iba en 6º de primaria quería un Xbox para poder jugar con mis amigos, pero no me lo compraron.
+            Yo quería jugar con mis amigos videjuegos y fue entonces que se me occurrio hacer videojuegos para jugarlos
+            con mis amigos.
+            </p> 
+          <p className='py-2 text-gray-600 mb-40'>
+            Empezé a buscar sobre como crear videojuegos y me tope con Unity un motor de videojuegos, era bastante complejo,
+            y no le entendía a la programación. Entonces decidí aprender primero a programar y luego regresar a Unity. Empezé
+            con un curso de programación en python y seguí aprendiendo algunas librerías como "beutifullsoup", "selenium",
+            y otras más. Luego empezé a aprender HTML y Css, con estos conceptos empecé a crear algunas páginas web. Después 
+            tomé un curso de harvard sobre programación, y seguí con un curso de desarollo web full stack, y recientemente estoy
+            tomando un curso sobre React, y otro sobre machinelearning.
           </p>
-          <p className='py-2 text-gray-600'>
-            I started web developement in 2013 managing multiple e-commerce
-            websites on CMS platforms such as WordPress, BigCommerce, and
-            Shopify. I have experience working directly with clients and taking
-            mock wireframes all the way to deployed applications. In my spare
-            time I run Code Commerce, a Youtube channel where I teach web
-            developement and various front-end technologies.
-          </p>
-          <Link href='/#projects'>
-            <p className='py-2 text-gray-600 underline cursor-pointer'>
-              Check out some of my latest projects.
-            </p>
-          </Link>
+          
         </div>
-        <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
+        <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300 mb-40'>
           <Image src={AboutImg} className='rounded-xl' alt='/' />
         </div>
       </div>
